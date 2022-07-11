@@ -1,19 +1,16 @@
 //Ambil script yang di YouTube gua kalau mau yang bisa di recode
-//Take the script on my YouTube if you want the obfuscated one
-//My YouTube Channel => ZEEONE OFC
+//Take the script on my Instagram if you want the obfuscated one
+//My Instagram => @muhammad_alhakim15
 
 /*
   **** INFO SCRIPT ****
-  ** Author : Nayla
-  ** Recode : zeeone
+  ** Author : M.Alhakim
+  ** Recode : M.Alhakim
   ** Don't delete the author's name and my name
-  ** For new updates please visit my YouTube Channel ZEEONE OFC
+  ** For new updates please visit my Instagram @muhammad_alhakim15
   **
   **** THANKS TO ****
-  ** NAYLA CHAN
-  ** RYNZ
-  ** ARI
-  ** ARA•ARA
+  ** ALLAH SWT
   ** REST API PROVIDER IN MY BOT  
 */
 
