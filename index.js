@@ -1,4 +1,4 @@
-//Ambil script yang di YouTube gua kalau mau yang bisa di recode
+//Ambil script yang di Instagram gua kalau mau yang bisa di recode
 //Take the script on my Instagram if you want the obfuscated one
 //My Instagram => @muhammad_alhakim15
 
